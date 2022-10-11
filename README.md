@@ -1,6 +1,6 @@
 # MLGeo2022_velgueta
  this rep is for my machine learning class october 9, 2022 \
- [rep Marine class Ml] (https://github.com/UW-ESS-DS/MLGeo-Autumn22)
+ [rep Marine class Ml](https://github.com/UW-ESS-DS/MLGeo-Autumn22)
  ##### favorites topics
  
  
