@@ -3,11 +3,11 @@
  [repositorie Marine Class Ml](https://github.com/UW-ESS-DS/MLGeo-Autumn22)
  ##### favorites topics of research are:
  
- 1-Volcanoes\
+ 1-Volcanoes
  
- 2-Earthqueakes\
+ 2-Earthqueakes
  
- 3-Data analysis\
+ 3-Data analysis
  
  
 
