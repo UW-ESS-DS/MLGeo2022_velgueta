@@ -12,7 +12,7 @@
  
 
 
- To clone this rep you have to do this:
+ To clone this rep you have to write this in the terminal:
  ~~~
  git clone https://github.com/UW-ESS-DS/MLGeo2022_velgueta.git
  ~~~
