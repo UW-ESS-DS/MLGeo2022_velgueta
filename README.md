@@ -1,5 +1,5 @@
 # MLGeo2022_velgueta
- this rep is for my machine learning class october 9, 2022 \
+ This repositorie is for my Machine learning Class october 12, 2022 \
  [repositorie Marine Class Ml](https://github.com/UW-ESS-DS/MLGeo-Autumn22)
  ##### favorites topics of research are:
  1-Volcanoes
